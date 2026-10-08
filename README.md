@@ -86,7 +86,3 @@ The supplied archive credits Mehul Maithani as the project author and links to [
 
 This is an educational example. A single prediction's confidence is not a measure of overall model accuracy, and the reported validation score suggests the basic CNN may overfit. Use a separate evaluation set and improve validation performance before relying on predictions.
 
-## Author
-
-Original project attribution: [Mehul Maithani](https://github.com/maithanmehul-bit)
-
